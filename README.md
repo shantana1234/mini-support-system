@@ -6,14 +6,14 @@ A simple PHP-based support ticket system built without a framework. This project
 
 ## 🚀 Features
 
- ✅ User authentication via middleware (Admin/User)
- 🧾 Ticket creation with file uploads
- 🧑‍💼 Department management (admin only)
- 📌 Ticket update, view, delete (based on ownership or admin access)
- 🧃 Rate-limiting for ticket creation (10 per hour)
- 📂 Ticket notes support (if implemented)
- 🌐 Clean API responses with JSON
- 🧪 Includes simple unit testing script
+ ✅ User authentication via middleware (Admin/User)<br>
+ 🧾 Ticket creation with file uploads<br>
+ 🧑‍💼 Department management (admin only)<br>
+ 📌 Ticket update, view, delete (based on ownership or admin access)<br>
+ 🧃 Rate-limiting for ticket creation (10 per hour)<br>
+ 📂 Ticket notes support (if implemented)<br>
+ 🌐 Clean API responses with JSON<br>
+ 🧪 Includes simple unit testing script<br>
 
 ---
 
