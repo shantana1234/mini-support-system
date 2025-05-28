@@ -29,24 +29,24 @@ A simple PHP-based support ticket system built without a framework. This project
 
 ## 🧩 Folder Structure
 
-mini-support-system/
-├── app/
-│ ├── Controllers/
-│ ├── Models/
-│ └── Middleware/
-├── config/
-│ └── database.php
-├── public/
-│ └── index.php
-├── storage/
-│ └── uploads/tickets/
-├── Tests/
-│ └── DepartmentControllerTest.php
-│ └── TicketControllerTest.php
-├── seed.php
-├── index.php
-├── .htaccess
-├── test.php
+mini-support-system/<br>
+├── app/<br>
+│ ├── Controllers/<br>
+│ ├── Models/<br>
+│ └── Middleware/<br>
+├── config/<br>
+│ └── database.php<br>
+├── public/<br>
+│ └── index.php<br>
+├── storage/<br>
+│ └── uploads/tickets/<br>
+├── Tests/<br>
+│ └── DepartmentControllerTest.php<br>
+│ └── TicketControllerTest.php<br>
+├── seed.php<br>
+├── index.php<br>
+├── .htaccess<br>
+├── test.php<br>
 
 ## 📥 Installation
 
